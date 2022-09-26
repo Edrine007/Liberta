@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<link rel="stylesheet" href="C:\Users\lutal\Desktop\coding in atom\master.css">
+    <meta charset="utf-8">
+    <title>gaze-digital</title>
+    <script>
+      alert("javascript is working");
+    </script>
+  </head>
+  <body>
+    <div class="">
+      <nav class="navbar navbar-expand-md">
+        <img class="navbar-brand navlogo" src="D:\JONATECH MEDIA\CLIENTS\SKILL HUB\logos\SKILL-HUB-LOGO-1.png" alt="LOGO">
+<div class="LIST">
+  <ul class="navbar-nav">
+    <li>
+      <a class="nav-link" href="#">HOME</a>
+    </li>
+    <li>
+      <a class="nav-link" href="#">ABOUT</a>
+    </li>
+    <li>
+      <a class="nav-link" href="#">ARMY</a>
+    </li>
+
+  </ul>
+</div>
+  </nav>
+    </div>
+      <button class="btn btn-success btn-lg" type="button" name="button">SUBSCRIBE</button>
+
+</body>
+</html>
