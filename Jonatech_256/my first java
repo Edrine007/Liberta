@@ -1,5 +1,0 @@
-const firstName "Jerry";
-consule.log(firstName)
-let firstName "Jerry";
-firstName "Mark"
-consule.log(firstName)
