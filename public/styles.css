@@ -1,41 +1,29 @@
 body{
-  text-align: center;
-  background-color: lavender;
+  background-image: url(./bk-img.jpg);
+  background-size: auto;
+  background-size:100%;
+  background-repeat: no-repeat;
 }
-div1{
-  margin: 5px;
-  position: relative;
+nav{
+  display: flex;
+  background-color: white;
+  width:100%;
+  height: 50px;
+  align-items: flex-start;
 }
-
-img {
-  border: 1px solid #ddd;
-  border-radius: 20px;
-  padding: 5px;
-  width: 700px;
+.logo{
+color: #336666;
+font-family: typeWriter;
+font-weight: bold;
+padding-left: 30px;
+font-size: 15pt;
 }
 
 h1{
-  position: absolute;
-  top: 10%;
-  left: 20%;
-  right: 20%;
-  bottom: 20%;
   color: white;
-  font-size: 80px;
-  font-weight: bolder;
-  font-family:serif;
+  font-size: 30pt;
+  font-family: typeWriter;
+  font-weight: bold;
+  margin-left: 200px;
+  margin-top: 300px;
 }
-p{
-position: absolute;
-top: 10%;
-left: 20%;
-right: 20%;
-bottom: 20%;
-color: #f8f8ff;
-font-size: 30px;
-font-weight:normal;
-font-family:serif;
-padding-top:120px;
-}
-
-
